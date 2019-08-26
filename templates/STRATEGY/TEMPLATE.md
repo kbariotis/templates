@@ -1,0 +1,7 @@
+# Strategy
+
+## Diagnosis
+
+## Policies
+
+## Actions
