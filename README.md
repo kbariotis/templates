@@ -8,7 +8,7 @@ Feel free to add your own. There isn't really a common theme.
 
 ## List
 
-- [Pitch](./tree/master/templates/PITCH)
-- [Vision](./tree/master/templates/VISION)
-- [Strategy](./tree/master/templates/STRATEGY)
-- [Product Requirements](./tree/master/templates/PRODUCT_REQUIREMENTS)
+- [Pitch](https://github.com/kbariotis/templates/tree/master/templates/PITCH)
+- [Vision](https://github.com/kbariotis/templates/tree/master/templates/VISION)
+- [Strategy](https://github.com/kbariotis/templates/tree/master/templates/STRATEGY)
+- [Product Requirements](https://github.com/kbariotis/templates/tree/master/templates/PRODUCT_REQUIREMENTS)
