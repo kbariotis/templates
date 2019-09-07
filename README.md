@@ -13,3 +13,4 @@ Feel free to add your own. There isn't really a common theme.
 - [Strategy](https://github.com/kbariotis/templates/tree/master/templates/STRATEGY)
 - [Product Requirements](https://github.com/kbariotis/templates/tree/master/templates/PRODUCT_REQUIREMENTS)
 - [Product Opportunity Assessment](https://github.com/kbariotis/templates/tree/master/templates/PRODUCT_OPPORTUNITY_ASSESSMENT)
+- [Product Vision](https://github.com/kbariotis/templates/tree/master/templates/PRODUCT_VISION)
