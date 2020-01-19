@@ -10,13 +10,13 @@
     }
   },
   "lint-staged": {
-    "*.{json,md}": [
+    "*.{json,md,yml}": [
       "prettier --write"
     ]
   },
   "scripts": {
     "fix": "yarn prettier --write",
-    "prettier": "prettier \"**/*.{json,md}\"",
+    "prettier": "prettier \"**/*.{json,md,yml}\"",
     "test": "yarn prettier --list-different"
   }
 }
