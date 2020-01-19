@@ -1,0 +1,22 @@
+{
+  "devDependencies": {
+    "husky": "4.0.10",
+    "lint-staged": "10.0.0",
+    "prettier": "1.19.1"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged"
+    }
+  },
+  "lint-staged": {
+    "*.{json,md,yml}": [
+      "prettier --write"
+    ]
+  },
+  "scripts": {
+    "fix": "yarn prettier --write",
+    "prettier": "prettier \"**/*.{json,md,yml}\"",
+    "test": "yarn prettier --list-different"
+  }
+}
