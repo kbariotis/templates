@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "prettier": "1.19.1"
+  },
+  "scripts": {
+    "fix": "yarn prettier --write",
+    "prettier": "prettier \"**/*.{json,md}\"",
+    "test": "yarn prettier --list-different"
+  }
+}
