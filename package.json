@@ -4,6 +4,17 @@
     "lint-staged": "10.0.0",
     "prettier": "1.19.1"
   },
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged"
+    }
+  },
+  "lint-staged": {
+    "*.{json,md}": [
+      "prettier --write",
+      "git add"
+    ]
+  },
   "scripts": {
     "fix": "yarn prettier --write",
     "prettier": "prettier \"**/*.{json,md}\"",
