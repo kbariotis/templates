@@ -16,3 +16,4 @@ Feel free to add your own. There isn't really a common theme.
 - [Product Opportunity Assessment](https://github.com/kbariotis/templates/tree/master/templates/PRODUCT_OPPORTUNITY_ASSESSMENT)
 - [Product Vision](https://github.com/kbariotis/templates/tree/master/templates/PRODUCT_VISION)
 - [Run Book](https://github.com/kbariotis/templates/tree/master/templates/RUN_BOOK)
+- [Objective & Key Results](https://github.com/kbariotis/templates/tree/master/templates/OBJECTIVE_KEY_RESULTS)
