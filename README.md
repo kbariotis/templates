@@ -25,3 +25,7 @@ Feel free to add your own. There isn't really a common theme.
 - [Pitch](https://github.com/kbariotis/templates/tree/master/templates/PITCH)
 - [Product Opportunity Assessment](https://github.com/kbariotis/templates/tree/master/templates/PRODUCT_OPPORTUNITY_ASSESSMENT)
 - [Product Vision](https://github.com/kbariotis/templates/tree/master/templates/PRODUCT_VISION)
+
+### License
+
+Creative Commons Zero v1.0 Universal [Remore more here](https://github.com/kbariotis/templates/blob/master/LICENSE)
