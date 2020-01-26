@@ -26,6 +26,6 @@ Feel free to add your own. There isn't really a common theme.
 - [Product Opportunity Assessment](https://github.com/kbariotis/templates/tree/master/templates/PRODUCT_OPPORTUNITY_ASSESSMENT)
 - [Product Vision](https://github.com/kbariotis/templates/tree/master/templates/PRODUCT_VISION)
 
-### License
+## License
 
 Creative Commons Zero v1.0 Universal [Remore more here](https://github.com/kbariotis/templates/blob/master/LICENSE)
