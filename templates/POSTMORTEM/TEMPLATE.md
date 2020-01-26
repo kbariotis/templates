@@ -22,9 +22,9 @@
 
 ### Action Items
 
-## | Action Item | Type | Owner | Bug |
-
-|||||
+| Action Item | Type | Owner | Bug |
+| ----------- | ---- | ----- | --- |
+|             |      |       |     |
 
 ## Lessons Learned
 
@@ -36,8 +36,8 @@
 
 ## Timeline
 
-## | Date | Time | Summary
-
-|||
+| Date | Time | Summary |
+| ---- | ---- | ------- |
+|      |      |         |
 
 ## Supporting information
