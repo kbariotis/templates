@@ -29,4 +29,4 @@ Feel free to add your own. There isn't really a common theme.
 
 ## License
 
-Creative Commons Zero v1.0 Universal [Remore more here](https://github.com/kbariotis/templates/blob/master/LICENSE)
+Creative Commons Zero v1.0 Universal [Read more](https://github.com/kbariotis/templates/blob/master/LICENSE)
