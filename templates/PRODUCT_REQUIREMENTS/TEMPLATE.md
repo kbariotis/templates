@@ -1,17 +1,21 @@
 # Requirements
 
-## Title
+## General
 
-## Owners
+### Title
 
-## Summary
+### Participants
 
-## Scope
+### Status
 
-## Problem / Goals
+### Target release
 
-## Possible Solutions
+## Background and Strategic Fit
 
-## How others have done it
+## Requirements / User Stories
 
-## User Stories
+## User interaction and design
+
+## Question
+
+## Not doing
